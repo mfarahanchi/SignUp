@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SignUp</string>
+    <string name="phone_number">Phone Number:</string>
 </resources>
